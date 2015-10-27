@@ -1,0 +1,7 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.jdt.ui.source,3.7.2.v20120109-1427,plugins/org.eclipse.jdt.ui.source_3.7.2.v20120109-1427.jar,-1,false
+org.eclipse.swt.cocoa.macosx.source,3.7.2.v3740f,plugins/org.eclipse.swt.cocoa.macosx.source_3.7.2.v3740f.jar,-1,false
+org.eclipse.ui.cocoa.source,1.1.0.I20101109-0800,plugins/org.eclipse.ui.cocoa.source_1.1.0.I20101109-0800.jar,-1,false
+org.eclipse.ui.ide.source,3.7.0.v20110928-1505,plugins/org.eclipse.ui.ide.source_3.7.0.v20110928-1505.jar,-1,false
+org.eclipse.ui.navigator.resources.source,3.4.300.v20110928-1505,plugins/org.eclipse.ui.navigator.resources.source_3.4.300.v20110928-1505.jar,-1,false

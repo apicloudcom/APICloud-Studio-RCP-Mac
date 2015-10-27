@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Export-Package: Decoder,com.apicloud.networkservice,com.dd.plist,com.s
+ un.jna,com.sun.jna.platform,com.sun.jna.platform.win32,com.sun.jna.pt
+ r,com.sun.jna.win32,net.sf.json,net.sf.json.xml,org.apache.commons.co
+ dec,org.apache.commons.codec.binary,org.apache.commons.codec.digest,o
+ rg.apache.tools.zip,org.dom4j,org.dom4j.io,org.jdom,org.jdom.input,or
+ g.json
+Bundle-Vendor: APICLOUD
+Bundle-ClassPath: lib/ant.jar,lib/dom4j-1.6.1.jar,lib/json-lib-2.4-jdk
+ 15.jar,lib/commons-codec-1.7.jar,lib/javapns-jdk16-163.jar,lib/dd-pli
+ st.jar,lib/jna.jar,lib/jna-3.3.0-platform.jar,lib/sun.misc.BASE64Deco
+ der.jar,lib/jdom.jar,lib/networkservice.jar,.
+Bundle-Version: 1.0.0.201509162334
+Bundle-Name: Lib
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.apicloud.commons.lib
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
+
